@@ -39,7 +39,7 @@ The application will be running on port 3000.
 
 ## Authors
  - Leonardo Vergara - [LeonardoVergara](https://github.com/LeonardoVergara)
- - Sthephany Rojas - [Sthephany Rojas](https://github.com/sthephanyr15)
+ - Sthephany Rojas - [sthephanyr15](https://github.com/sthephanyr15)
  - Jack Howard
 
 ## Acknowledgements
