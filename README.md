@@ -35,7 +35,7 @@ The application will be running on port 3000.
 <img src="https://user-images.githubusercontent.com/73978713/177091133-7b5f4655-5e94-48c0-9292-b1918b48e13d.png" height=400>
 <img src="https://user-images.githubusercontent.com/73978713/177091131-2cedd7ef-67ed-4621-81e9-54ed2a8fa592.png" height=400>
 
-> Note: The app is already hosted in [escape-rivals.herokuapp.com](escape-rivals.herokuapp.com).
+> Note: The app is already hosted in [escape-rivals.herokuapp.com](https://escape-rivals.herokuapp.com).
 
 ## Authors
  - Leonardo Vergara - [LeonardoVergara](https://github.com/LeonardoVergara)
