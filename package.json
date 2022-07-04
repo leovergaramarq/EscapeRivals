@@ -1,27 +1,28 @@
 {
   "name": "package",
   "version": "1.0.0",
-  "description": ".",
-  "main": "./src/game.js",
+  "description": "",
+  "main": "./src/index.js",
   "scripts": {
-    "start": "node ./src/server.js",
-    "dev": "nodemon ./src/server.js"
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
   },
   "keywords": [],
-  "author": "sthephanyr15",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "phaser": "^3.24.1",
+    "phaser": "^3.55.2",
     "socket.io": "^3.0.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vergaradl/EscapeRivals.git"
+    "url": "git+https://github.com/LeonardoVergara/EscapeRivals.git"
   },
   "bugs": {
-    "url": "https://github.com/vergaradl/EscapeRivals/issues"
+    "url": "https://github.com/LeonardoVergara/EscapeRivals/issues"
   },
-  "homepage": "https://github.com/vergaradl/EscapeRivals#readme"
+  "homepage": "https://github.com/LeonardoVergara/EscapeRivals#readme"
 }

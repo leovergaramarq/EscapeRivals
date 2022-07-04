@@ -1,24 +1,21 @@
-const path=require('path');
-const express=require('express');
-const app=express();
-const server=require('http').createServer(app);
+const express = require('express');
+const path = require('path');
+const http = require('http');
 
-//settings
+const app = express();
+const server = http.createServer(app);
+
+// Settings
 app.set('port', process.env.PORT || 3000);
 
-//static files
-//app.use(express.static(path.join(__dirname, 'frontend')));
-app.use(express.static(__dirname));
+// Static files
+app.use(express.static(path.join(__dirname, 'public')));
 
-//iniciar server
-
-server.listen(app.get('port'), ()=>{
+// Init Server
+server.listen(app.get('port'), () => {
   console.log('Servidor en puerto', app.get('port'));
 });
 
-//websockets
-const SocketIO=require('socket.io');
-//const io=SocketIO.listen(server);
-const io=SocketIO(server); //conexión
-
+// Websockets
+const io = require('socket.io')(server);
 require('./sockets')(io);

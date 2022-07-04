@@ -1,0 +1,56 @@
+[
+    {
+      "map": "1.json",
+      "tilesets": "1.png",
+      "time": 100,
+      "player1": { 
+        "x": 100, 
+        "y": 0 
+      },
+      "player2": { 
+        "x": 160, 
+        "y": 0 
+      },
+      "transitionMsgs": {
+        "win": "Not bad, but don't relax",
+        "tie": "Everything's even for now",
+        "lose": "Everything's still open, come on!"
+      }
+    },
+    {
+      "map": "2.json",
+      "tilesets": "2.png",
+      "time": 100,
+      "player1": { 
+        "x": 100, 
+        "y": 0 
+      },
+      "player2": { 
+        "x": 160, 
+        "y": 0 
+      },
+      "transitionMsgs": {
+        "win": "You got the advantage, keep it up",
+        "tie": "It's a tie for now",
+        "lose": "Not everything's, you have one round left!"
+      }
+    },
+    {
+      "map": "3.json",
+      "tilesets": "3.png",
+      "time": 100,
+      "player1": { 
+        "x": 100, 
+        "y": 0 
+      },
+      "player2": { 
+        "x": 160, 
+        "y": 0 
+      },
+      "transitionMsgs": {
+        "win": "Victory, you're awesome!",
+        "tie": "It's a tie! Wanna break it?",
+        "lose": "Your rival won the battle, but not the WAR!"
+      }
+    }
+]
