@@ -14,7 +14,7 @@ Two player platform arcade game developed with Phaser 3 and Socket.IO. Share a r
 
 You can clone this repsitory to get the source code
 
-    git clone https://github.com/LeonardoVergara/EscapeRivals.git
+    git clone https://github.com/vergaraldvm/EscapeRivals.git
 
 ### Prerequisites
 
