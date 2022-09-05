@@ -14,7 +14,7 @@ Two player platform arcade game developed with Phaser 3 and Socket.IO. Share a r
 
 You can clone this repsitory to get the source code
 
-    git clone https://github.com/vergaraldvm/EscapeRivals.git
+    git clone https://github.com/leovergaramarq/EscapeRivals.git
 
 ### Prerequisites
 
@@ -38,7 +38,7 @@ The application will be running on port 3000.
 > Note: The app is already hosted in [escape-rivals.herokuapp.com](https://escape-rivals.herokuapp.com).
 
 ## Authors
- - Leonardo Vergara - [vergaraldvm](https://github.com/vergaraldvm)
+ - Leonardo Vergara - [leovergaramarq](https://github.com/leovergaramarq)
  - Sthephany Rojas - [sthephanyr15](https://github.com/sthephanyr15)
  - Jack Howard
 
